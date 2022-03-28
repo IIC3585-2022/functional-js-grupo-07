@@ -1,0 +1,22 @@
+{
+  "name": "my-array-module",
+  "version": "0.10.0",
+  "description": "A simple array module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uzochukwueddie/my-array-module.git"
+  },
+  "keywords": [
+    "array"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uzochukwueddie/my-array-module/issues"
+  },
+  "homepage": "https://github.com/uzochukwueddie/my-array-module#readme"
+}
